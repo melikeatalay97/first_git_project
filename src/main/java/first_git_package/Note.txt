@@ -12,7 +12,7 @@
     *git push -u origin main  >> ONLY ONCE
     *** Then you code should be pushed to github. Refresh you page to see code!
 
-NOTE: git status    --> This is our friend. This can be used anytime to see the progress
+NOTE: git status  --> This is our friend. This can be used anytime to see the progress
 
 4. Create a new SECOND COMMIT
     *Create a new class under first_git_package : MySecondClass
@@ -38,3 +38,5 @@ NOTE: if git pull throws error then use:
          *git add.
          *git commit -m "committing my codes"
          *git push
+NOTE: PULL BEFORE PUSH
+         *git pull  -->  git add .  -->  git commit -m "message"  -->  git push
