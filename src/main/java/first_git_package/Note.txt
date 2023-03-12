@@ -40,3 +40,14 @@ NOTE: if git pull throws error then use:
          *git push
 NOTE: PULL BEFORE PUSH
          *git pull  -->  git add .  -->  git commit -m "message"  -->  git push
+
+         ******************** DAY 2 **********************
+BRANCHING
+git branch -a  -->  show me all branch
+git branch name  -->  create name branch
+git chechout name  --> switched to ahmet branch
+created a new commit and push
+     git add .
+     git commit -m "message"
+     git push --set-upstream origin ahmet
+     Then codes will be in the remote ahmet branch
